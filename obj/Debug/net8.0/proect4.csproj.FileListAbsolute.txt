@@ -1,0 +1,14 @@
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.AssemblyInfoInputs.cache
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.AssemblyInfo.cs
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.csproj.CoreCompileInputs.cache
+C:\Users\hp\PROECTS\proect4\bin\Debug\net8.0\proect4.exe
+C:\Users\hp\PROECTS\proect4\bin\Debug\net8.0\proect4.deps.json
+C:\Users\hp\PROECTS\proect4\bin\Debug\net8.0\proect4.runtimeconfig.json
+C:\Users\hp\PROECTS\proect4\bin\Debug\net8.0\proect4.dll
+C:\Users\hp\PROECTS\proect4\bin\Debug\net8.0\proect4.pdb
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.dll
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\refint\proect4.dll
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.pdb
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\proect4.genruntimeconfig.cache
+C:\Users\hp\PROECTS\proect4\obj\Debug\net8.0\ref\proect4.dll
